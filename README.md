@@ -1,4 +1,4 @@
-For the proper working of yhis code you ned to install Two Libraries
+For the proper working of this code you need to install Two Libraries
 
 1_Tkinter is a standard GUI python library
 
